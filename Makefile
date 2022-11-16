@@ -27,7 +27,7 @@
 # Edit the follwing lines according to your needs
 
 # Your C++ compiler
-CXX         = g++
+CXX         = g++-11
 
 #**************************************************************************
 # You should not need to edit the following part
